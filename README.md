@@ -4,7 +4,7 @@
          width="45" />  
   Mohammed Hasan here... &#127470;&#127475 </h1>
 
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A developer with formless mind...</h3>
 
 <img  align="right" top="500" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -24,6 +24,7 @@
 <div align='center'>
   
 ### Tech I use
+
 <br/>
 
 ![](https://img.shields.io/badge/html-444?style=for-the-badge&logo=html5)
@@ -39,7 +40,8 @@
 ![](https://img.shields.io/badge/postgres-444?style=for-the-badge&logo=postgresql)
 ![](https://img.shields.io/badge/babel-444?style=for-the-badge&logo=babel)
 ![](https://img.shields.io/badge/eslint-444?style=for-the-badge&logo=eslint)
-![]()
+![](https://camo.githubusercontent.com/22ccbed4c990f13e8b570edd2ce2ed95be4e3a3d0c4286c053e2c29b48e8ac4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d527562792b6f6e2b5261696c7326636f6c6f723d434330303030266c6f676f3d527562792b6f6e2b5261696c73266c6f676f436f6c6f723d464646464646266c6162656c3d)
+ 
 </div>
 <br/>
 
@@ -47,11 +49,33 @@
   
   ### Projects worked on
 </div>
-<br/>
 
-<div style="display:flex;flex-direction: column; align-items:center;">
-  <a href="https://www.freshworks.com/survey/" >Freshsurvey</a>&nbsp;&nbsp;
- <img style="margin-top:5px;" src="https://img.shields.io/badge/functional_programming-666?style=flat-square"/>&nbsp;
+<div align='center'>
+	<div><a href="https://www.freshworks.com/survey/" style="margin-right:20px;">Freshsurvey</a>&nbsp;&nbsp;</div>
+	<br>
+	<img src="https://img.shields.io/badge/Functional_Programming-444?style=flat-square&logo=functional_programming"/>&nbsp;
+	<img src="https://img.shields.io/badge/Typescript-444?style=flat-square&logo=typescript"/>&nbsp;
+	<img src="https://img.shields.io/badge/NextJs-444?style=flat-square&logo=nextdotjs"/>&nbsp;
+	<img src="https://img.shields.io/badge/Testing_Library-444?style=flat-square&logo=testinglibrary"/>&nbsp;
+	<img src="https://img.shields.io/badge/Webpack-444?style=flat-square&logo=webpack"/>&nbsp;
+</div>
+<br>	
+<div align='center'>
+	<div><a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;">Freemium-ui</a>&nbsp;&nbsp;</div>
+	<br>
+	<img src="https://img.shields.io/badge/npm-666?style=flat-square&logo=npm"/>&nbsp;
+	<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
+	<img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
+	<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
+</div>
+
+<div align='center'>
+	<div><a href="[https://www.npmjs.com/package/freemium-ui](https://github.com/R-Mohammed-Hasan/Webspire)" style="margin-right:20px;">Webspire</a>&nbsp;&nbsp;</div>
+	<br>
+	<img width=100 height=20 src="https://camo.githubusercontent.com/22ccbed4c990f13e8b570edd2ce2ed95be4e3a3d0c4286c053e2c29b48e8ac4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d527562792b6f6e2b5261696c7326636f6c6f723d434330303030266c6f676f3d527562792b6f6e2b5261696c73266c6f676f436f6c6f723d464646464646266c6162656c3d"/>&nbsp;
+	<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
+	<img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
+	<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
 
 
