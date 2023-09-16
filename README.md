@@ -37,18 +37,19 @@
 ![](https://img.shields.io/badge/nodejs-444?style=for-the-badge&logo=nodedotjs)
 ![](https://img.shields.io/badge/expressjs-444?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/python-444?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/postgres-444?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/postgres-444?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/babel-444?style=for-the-badge&logo=babel)
 ![](https://img.shields.io/badge/eslint-444?style=for-the-badge&logo=eslint)
-![](https://camo.githubusercontent.com/22ccbed4c990f13e8b570edd2ce2ed95be4e3a3d0c4286c053e2c29b48e8ac4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d527562792b6f6e2b5261696c7326636f6c6f723d434330303030266c6f676f3d527562792b6f6e2b5261696c73266c6f676f436f6c6f723d464646464646266c6162656c3d)
- 
+![](https://img.shields.io/badge/rubyonrails-444?style=for-the-badge&logo=rubyonrails&logoColor=red) 
 </div>
 <br/>
 
+
+
 <div align='center'>
   
-  ### Projects worked on
-</div>
+### Projects worked on
+
 
 <div align='center'>
 	<div><a href="https://www.freshworks.com/survey/" style="margin-right:20px;">Freshsurvey</a>&nbsp;&nbsp;</div>
@@ -59,29 +60,30 @@
 	<img src="https://img.shields.io/badge/Testing_Library-444?style=flat-square&logo=testinglibrary"/>&nbsp;
 	<img src="https://img.shields.io/badge/Webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
-<br>	
+<hr width=70%>
+		
 <div align='center'>
 	<div><a href="https://www.npmjs.com/package/freemium-ui" style="margin-right:20px;">Freemium-ui</a>&nbsp;&nbsp;</div>
 	<br>
-	<img src="https://img.shields.io/badge/npm-666?style=flat-square&logo=npm"/>&nbsp;
+	<img src="https://img.shields.io/badge/npm-444?style=flat-square&logo=npm"/>&nbsp;
 	<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
 	<img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
 	<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
 </div>
+<hr width=70%>
 
 <div align='center'>
-	<div><a href="[https://www.npmjs.com/package/freemium-ui](https://github.com/R-Mohammed-Hasan/Webspire)" style="margin-right:20px;">Webspire</a>&nbsp;&nbsp;</div>
+	<div><a href="https://github.com/R-Mohammed-Hasan/Webspire" style="margin-right:20px;">Webspire</a>&nbsp;&nbsp;</div>
 	<br>
-	<img width=100 height=20 src="https://camo.githubusercontent.com/22ccbed4c990f13e8b570edd2ce2ed95be4e3a3d0c4286c053e2c29b48e8ac4e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d527562792b6f6e2b5261696c7326636f6c6f723d434330303030266c6f676f3d527562792b6f6e2b5261696c73266c6f676f436f6c6f723d464646464646266c6162656c3d"/>&nbsp;
-	<img src="https://img.shields.io/badge/typescript-444?style=flat-square&logo=typescript"/>&nbsp;
-	<img src="https://img.shields.io/badge/reactjs-444?style=flat-square&logo=react"/>&nbsp;
+	<img width=100 height=20 src="https://img.shields.io/badge/rubyonrails-444?style=for-the-badge&logo=rubyonrails&logoColor=red"/>&nbsp;
 	<img src="https://img.shields.io/badge/webpack-444?style=flat-square&logo=webpack"/>&nbsp;
+ 	<img width=100 height=20 src="https://img.shields.io/badge/ruby-444?style=for-the-badge&logo=ruby&logoColor=red"/>&nbsp;	
 </div>
-
-
+</div>
+<hr>
+<br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
