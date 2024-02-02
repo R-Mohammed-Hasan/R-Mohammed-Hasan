@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/nodejs-444?style=for-the-badge&logo=nodedotjs)
 ![](https://img.shields.io/badge/expressjs-444?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/python-444?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/reactjs-444?style=for-the-badge&logo=dart)
 ![](https://img.shields.io/badge/postgres-444?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/babel-444?style=for-the-badge&logo=babel)
 ![](https://img.shields.io/badge/eslint-444?style=for-the-badge&logo=eslint)
