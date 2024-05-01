@@ -90,7 +90,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Don" /></p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IndranilChutia&exclude_days=Sun&card_width=485&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R-Mohammed-Hasan&exclude_days=Sun&card_width=485&theme=github_dark)](https://git.io/streak-stats)
 <hr>
 <br>
 
