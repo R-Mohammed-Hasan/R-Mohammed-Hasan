@@ -1,14 +1,16 @@
-<h1 align='center'> Hello everyone...<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1> Hello everyone...<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand"
          height="40"
          width="45" />  
   Mohammed Hasan here... &#127470;&#127475 </h1>
 
-<h3 align="center">A developer with formless mind...</h3>
+<h3>A developer with formless mind...</h3>
+
+![](https://komarev.com/ghpvc/?username=R-Mohammed-Hasan&abbreviated=true)
 
 <img  align="right" top="500" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-<br><br>
+<br>
 
 - 💬  If you’re looking for someone who can help you understand the world of web development, I’m your guy. I’ve been a web developer for the past 2 years, and I love it
   
