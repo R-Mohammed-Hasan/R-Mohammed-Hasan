@@ -1,12 +1,12 @@
-<h1> Hello everyone...<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello everyone...<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand"
          height="40"
          width="45" />  
   Mohammed Hasan here... &#127470;&#127475 </h1>
 
-<h3>A developer with formless mind...</h3>
+<h3 align="center">A developer with formless mind...</h3>
 
-![](https://komarev.com/ghpvc/?username=R-Mohammed-Hasan&abbreviated=true)
+<h4 align="center"><img align="center" src="https://komarev.com/ghpvc/?username=R-Mohammed-Hasan&abbreviated=true" /> </h4>
 
 <img  align="right" top="500" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
@@ -25,12 +25,10 @@
 
 <hr>
 <br/>
-<br/>
 
 <div align='center'>
-  
+	
 ### Tech I use
-
 <br/>
 
 ![](https://img.shields.io/badge/html-444?style=for-the-badge&logo=html5)
@@ -89,14 +87,15 @@
 </div>
 </div>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Don" /></p>
-
+<p >
+	<img align="left" style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Don" />
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R-Mohammed-Hasan&exclude_days=Sun&card_width=485&theme=github_dark)](https://git.io/streak-stats)
-<hr>
+
 <br>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" style="vertical-align:center;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mohammed-hasan07">
