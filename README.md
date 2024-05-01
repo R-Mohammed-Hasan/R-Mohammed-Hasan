@@ -87,6 +87,11 @@
 </div>
 </div>
 <hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Don" /></p>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IndranilChutia&exclude_days=Sun&card_width=485&theme=github_dark)](https://git.io/streak-stats)
+<hr>
 <br>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
