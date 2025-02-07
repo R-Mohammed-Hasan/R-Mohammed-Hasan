@@ -16,7 +16,7 @@
   
 - 👨‍💻 Wanna see my Portfolio wesbite... [Here](https://mohammed-hasan007.space/) you go...
 
-- Currently actively learning about Machine learning & Artificial Intelligence, how it might influence the future of humans..🤨  ([Kaggle])(https://www.kaggle.com/hasandon007/code)
+- Currently actively learning about Machine learning & Artificial Intelligence, how it might influence the future of humans..🤨  ([Kaggle](https://www.kaggle.com/hasandon007/code))
 
 - 👨‍💻 In my free time I just wander around Cyber security & Ethical hacking fields [Tryhackme](https://tryhackme.com/p/hasandon007)
 
