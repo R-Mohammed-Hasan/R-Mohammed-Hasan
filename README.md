@@ -22,7 +22,8 @@
 
 - 📫 Reach me at **m.hasan007.1961@gmail.com** 
 
-- 📄 For more info about me, have a look at my [Resume](https://github.com/R-Mohammed-Hasan/R-Mohammed-Hasan/files/15174941/Mohammed.Hasan.2.0.pdf)...
+- 📄 For more info about me, have a look at my [Resume](https://github.com/user-attachments/files/20027914/Mohammed.Hasan.pdf)...
+
 <br/>
 
 <hr>
