@@ -91,7 +91,7 @@
 </div>
 <hr>
 <p >
-	<img align="left" style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Don" />
+	<img align="left" style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Mohammed-Hasan&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Hasan's Stats" />
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R-Mohammed-Hasan&exclude_days=Sun&card_width=485&theme=github_dark)](https://git.io/streak-stats)
